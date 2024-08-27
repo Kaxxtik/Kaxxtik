@@ -26,19 +26,6 @@ From pixels to processors, I speak the language of tech. Need a translator for y
 
 <p align="left"> <a href="https://www.github.com/Kartik-KM" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kartik-mahajan-057777197/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@kartikmj6" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Kartik-KM"><img src="https://github-readme-stats.vercel.app/api?username=Kartik-KM&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Kartik-KM's GitHub stats" /></a>
-
-<a href="http://www.github.com/Kartik-KM"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik-KM&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4178e949665279.560862a568876.gif" alt="GitHub Profile Image" title="Your Image Title" align="right" width= "400">
 
-<a href="https://github.com/Kartik-KM" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-KM&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Kartik-KM/CloudNativeObs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kartik-KM&repo=CloudNativeObs&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-![snake gif](https://github.com/Kaxxtik/Kaxxtik/blob/output/github-contribution-grid-snake.svg)
