@@ -1,4 +1,4 @@
-https://i.pinimg.com/originals/da/6c/6f/da6c6fb6d58c6099f1ea687d53717844.jpg
+![Description of Image](https://i.pinimg.com/originals/da/6c/6f/da6c6fb6d58c6099f1ea687d53717844.jpg)
 
 <p>I'm Kartik Mahajan, a Computer Engineer with a strong background in building impactful projects. I have experience across various tech stacks and am currently focused on DevOps and cloud technologies. Over the years, I've contributed to several large-scale projects, and I'm always eager to connect and collaborate. If you're interested in discussing tech or exploring new projects, feel free to reach out!</p>
 
