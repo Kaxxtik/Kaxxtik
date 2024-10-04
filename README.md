@@ -1,4 +1,7 @@
-![Description of GIF](https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1ca9a29a-2807-4c42-9323-171bc9cb3bda" alt="Purple Sky Profile Header" />
+</div>
+
 
 <p>I'm Kartik , a Computer Engineer with a strong background in building impactful projects. I have experience across various tech stacks and am currently focused on DevOps and cloud technologies. Over the years, I've contributed to several large-scale projects, and I'm always eager to connect and collaborate. If you're interested in discussing tech or exploring new projects, feel free to reach out!</p>
 
