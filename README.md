@@ -6,7 +6,7 @@
 
 ## Hi, I'm Kartik 👋
 
-> DevOps Engineer & Cloud Enthusiast
+> Cloud Engineer
 
 I'm a Computer Engineer passionate about building impactful projects with experience across various tech stacks.  
 Currently focused on DevOps and cloud technologies, I enjoy creating efficient solutions and infrastructure.  
